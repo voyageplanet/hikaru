@@ -52,7 +52,7 @@
 
 &emsp;&emsp;
 
-&emsp;&emsp;※ 商默，二〇二〇年元月十七日 ※
+&emsp;&emsp;※ 商惟，二〇二〇年元月十七日 ※
 
 &emsp;&emsp;
 
@@ -75,4 +75,4 @@
 
 &emsp;&emsp;
 
-&emsp;&emsp;※ 商默，二〇二〇年三月廿一日 更新 ※
+&emsp;&emsp;※ 商惟，二〇二〇年三月廿一日 更新 ※
